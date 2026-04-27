@@ -1,5 +1,3 @@
-# Dependencies: sys, json, base64, mitmproxy
-
 # Flow:
 #   opens a .mitm file and reads the captured flows (requests/responses)
 #   extracts the raw state data from each flow
