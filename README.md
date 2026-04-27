@@ -1,12 +1,19 @@
 # CVE-2026-xxxx
 ---
 **CVE ID:** Pending
+
 **Problem Type:** CWE-295 (Improper Certificate Validation)
+
 **Vendor:** Meari Technologies
+
 **Affected Product:** CloudEdge Bell 24T
+
 **Product Page:** https://cloudedge.app/bell-24t/
+
 **Firmware Version:** 3.4.1.20230404
+
 **Researcher:** Chase Cooper
+
 
 ## Summary
 ---
