@@ -1,4 +1,4 @@
-# Simple script used to convert .mitm data to json
+# Custom script used to convert .mitm data to json
 
 # Flow:
 #   opens a .mitm file and reads the captured flows (requests/responses)
