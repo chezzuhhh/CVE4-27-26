@@ -1,5 +1,3 @@
-# Tool for parsing pcaps for specified fields
-
 import subprocess
 from pathlib import Path
 
